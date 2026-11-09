@@ -1,0 +1,12 @@
+{
+  "name": "qader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "قادر: مساعد ذكي للطالب والمعلم",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
